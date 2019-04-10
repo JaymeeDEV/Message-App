@@ -1,24 +1,25 @@
-# README
+# First App using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Some usernames you can use to login
 
-Things you may want to cover:
+Evgeny, Jonsnow, Arya, Frodo, Gandalf. All with the password "password".
 
-* Ruby version
+## Languages/Frameworks
 
-* System dependencies
+* HTML
+* CSS/SASS
+* Semantic UI
+* Javascript/CoffeeScript
+* Ruby/Ruby on Rails
+* SQL/PostgreSQL
 
-* Configuration
+## Future Implimentations
 
-* Database creation
+* Signup functionality
+* Adding friends
+* Private messaging
+* Better responsive design
 
-* Database initialization
+## Final Comments
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The project was setup to learn how to use Ruby on Rails and so the best practices for my html and styling weren't followed. I was purely focused on learning Ruby and Ruby on Rails. If I decide to grow this application these would be improved along with the future implimentations listed. Have fun trying it out and feel free to use the code however you like!
